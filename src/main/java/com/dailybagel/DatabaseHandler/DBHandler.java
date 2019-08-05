@@ -1,4 +1,4 @@
-package com.DatabaseHandler;
+package com.dailybagel.DatabaseHandler;
 
 import java.io.File;
 
