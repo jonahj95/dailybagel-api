@@ -1,0 +1,1 @@
+web: java -jar target/dailybagel-api.jar
